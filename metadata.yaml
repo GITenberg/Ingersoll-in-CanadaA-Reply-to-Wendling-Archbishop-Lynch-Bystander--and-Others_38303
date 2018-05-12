@@ -1,0 +1,27 @@
+_repo: Ingersoll-in-CanadaA-Reply-to-Wendling-Archbishop-Lynch-Bystander--and-Others_38303
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pringle, Allen
+    gutenberg_agent_id: '39382'
+    url: http://www.gutenberg.org/2009/agents/39382
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'BL'
+- !lcsh 'Ingersoll, Robert Green, 1833-1899'
+title: 'Ingersoll in Canada: A Reply to Wendling, Archbishop Lynch, Bystander; and
+  Others'
+url: http://www.gutenberg.org/ebooks/38303
